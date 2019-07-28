@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807762374826",
+    "firebase_url": "https://instragramclone-52860.firebaseio.com",
+    "project_id": "instragramclone-52860",
+    "storage_bucket": "instragramclone-52860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807762374826:android:8baffd7b67043d13",
+        "android_client_info": {
+          "package_name": "com.example.cidebaymaxtv.instragramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807762374826-5oq7euokl0rsgnii81slc1tgivvqm2f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cidebaymaxtv.instragramclone",
+            "certificate_hash": "57da491ade9692d17cf6aa1ad5dde42ad895c27a"
+          }
+        },
+        {
+          "client_id": "807762374826-cc0ae1uq24v0ei29o28u7j9cqktpe6eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOKwaahpM46BNKEGQ51UJoqWaiDcmc7f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807762374826-cc0ae1uq24v0ei29o28u7j9cqktpe6eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
